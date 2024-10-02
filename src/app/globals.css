@@ -32,8 +32,4 @@ body {
     }
 }
 
-@layer components{
-    .container{
-        @apply max-w-7xl m-auto px-10
-    }
-}
+
