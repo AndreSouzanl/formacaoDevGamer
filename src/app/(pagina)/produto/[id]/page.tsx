@@ -1,5 +1,5 @@
 "use client";
-import { Produto } from "@/core";
+import { Produto } from "@gam3r.store/core";
 import useProdutos from "@/data/hooks/useProdutos";
 import { useEffect, useState } from "react";
 

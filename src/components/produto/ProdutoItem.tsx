@@ -1,6 +1,6 @@
 "use client";
 
-import { Produto } from "@/core";
+import { Produto } from "@gam3r.store/core";
 import { IconShoppingCartPlus } from "@tabler/icons-react";
 import Image from "next/image";
 import Link from "next/link";

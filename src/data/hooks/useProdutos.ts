@@ -1,6 +1,6 @@
 "use client";
 
-import { Produto } from "@/core";
+import { Produto } from "@gam3r.store/core";
 import { useCallback, useEffect, useState } from "react";
 
 const urlBase = 'http://localhost:3005';
